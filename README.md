@@ -51,10 +51,6 @@ Backend project for a hotel application.
 Frontend project for a hotel application.  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### [Personal website](https://github.com/PopCorey/PopCorey.github.io)
-Personal website hosted on GitHub Pages.  
-[Visit the website](https://PopCorey.github.io)
-
 ## GitHub
 
 Rather than relying on third-party stats-card services that may fail to load, these badges use live GitHub profile and repository data:
