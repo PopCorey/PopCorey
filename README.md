@@ -18,7 +18,7 @@ Building practical software at the intersection of financial technology and AI.
 
 ## Profile
 
-I'm Corey, a programmer based in Shanghai. I work in the financial industry and am interested in applying software and AI to practical problems. I enjoy building useful tools, learning about LLMs, and contributing to open source.
+I'm Corey, a programmer based in Shanghai. I work in the financial industry and am interested in applying software and AI to practical problems. I enjoy building useful tools, learning about LLMs, and[...]
 
 - **Current focus:** LLMs, AI-powered applications, and developer tools
 - **Areas of interest:** FinTech, AI, and open source
@@ -41,7 +41,8 @@ I'm Corey, a programmer based in Shanghai. I work in the financial industry and 
 
 ### [dsh-replay-reset](https://github.com/PopCorey/dsh-replay-reset)
 A DSH plugin that helps handle resource-binding errors after upstream resource changes while preserving the original conversation.  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) [![Stars](https://img.shields.io/github/stars/PopCorey/dsh-replay-reset?style=flat-square&label=stars)](https://github.com/PopCorey/dsh-replay-reset/stargazers)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) [![Stars](https://img.shields.io/github/stars/PopCorey/dsh-replay-reset?style=flat-square)](https://github.com/PopCorey/dsh-replay-reset)
+[![dshfind](https://dshfind.com/api/card/PopCorey/dsh-replay-reset?lang=zh)](https://dshfind.com/zh/plugins/PopCorey/dsh-replay-reset?ref=badge)
 
 ### [hotel-backend](https://github.com/PopCorey/hotel-backend)
 Backend project for a hotel application.  
